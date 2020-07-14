@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="@string/The_Barbers"
+        android:id="@+id/barber_cust"/>
+    <item
+    android:id="@+id/profile_cust"
+    android:title="@string/Profile"/>
+
+</menu>

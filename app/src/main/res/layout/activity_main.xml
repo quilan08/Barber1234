@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Button
+        android:id="@+id/thebarberbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colormild"
+        android:text="@string/The_Barber"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/thebarberbtn"
+        android:background="@color/colormild"
+        android:id="@+id/thecustomerbtn"
+        android:layout_marginTop="10dp"
+        android:text="@string/The_customer"/>
+</RelativeLayout>

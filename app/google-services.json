@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436904876689",
+    "firebase_url": "https://barberchair-6123c.firebaseio.com",
+    "project_id": "barberchair-6123c",
+    "storage_bucket": "barberchair-6123c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436904876689:android:e6ce15b98fbd7edf727d30",
+        "android_client_info": {
+          "package_name": "com.example.barberchair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436904876689-2ihmbfcpf38ije86upj8q8cqdhkn2bu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6RQsnbPpf1ePejflgb50WzXsa_GUtHLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436904876689-2ihmbfcpf38ije86upj8q8cqdhkn2bu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
